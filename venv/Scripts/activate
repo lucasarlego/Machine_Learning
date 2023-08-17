@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\lucas.cavalcanti\Documents\ML_IBACEM\venv"
+VIRTUAL_ENV="C:\Users\lucas.cavalcanti\Documents\Machine_Learning\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
