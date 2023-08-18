@@ -48,8 +48,8 @@ The most well-known and widely used distance measure is the Euclidean distance. 
 #### Manhattan Distance
 A distance that considers only the sum of the absolute differences between each pair of coordinates.
 
-#### Distância de Minkowski
+#### Minkowski Distance
 A distance measure that generalizes other distances, such as Euclidean distance and Manhattan distance. It involves taking the absolute difference between each pair of coordinates, raising the result to the power of m, summing all the terms, and finally taking the m-th root, where m is any arbitrary number. Euclidean distance is a specific case when m is equal to 2, and Manhattan distance is a specific case when m is equal to 1.
 
-#### Distância de Chebyshev
+#### Chebyshev Distance
 It is a distance measure that considers only the maximum value among the absolute differences between variables. In this way, it takes into account only the variable that has the greatest difference in values between the two observations.
