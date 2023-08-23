@@ -12,7 +12,7 @@
 
 
 
-### Support Vector Machine (SVM)
+## Support Vector Machine (SVM)
 Studying the internal structure of these algorithms to comprehend why certain decisions are being made is not straightforward. Classification algorithms like the Support Vector Machine are challenging to study and interpret, which is why they are often referred to as "black boxes."
 
 With SVC, after rescaling the data, the accuracy gains an impressive boost. However, i still haven't used a classification algorithm that provides us with its internal rules so that we can understand how certain decisions are made.
@@ -33,7 +33,7 @@ Qualitative data can be classified into:
 Nominal: there is no inherent order among the categories. For example: gender, sick/healthy, eye color.
 Ordinal: there is a specific order among the categories. For example: education level, social class.
 
-### KNN K-Nearest Neighbors
+## KNN K-Nearest Neighbors
 
 1. Receive information
 2. Calculate Distances
@@ -56,13 +56,12 @@ It is a distance measure that considers only the maximum value among the absolut
 <<<<<<< HEAD
 
 
-### Bayes' Theorem
+## Bayes' Theorem
 
 Bayes' theorem is a formula used to calculate the probability of an event occurring, given that another event, called the conditioning event, has already occurred. This is known as conditional probability. Its notation is given by P(A|B), which represents the probability of event A given that event B has already occurred. It is defined by the following equation:
+
 ![Alt text](image.png)
 
 * P(B|A): probability of event B occurring given that event A has already occurred;
 * P(A): probability of event A occurring;
 * P(B): probability of event B occurring.
-=======
->>>>>>> 6cf321b26aabb2f1440519177827a8fe5231e490
