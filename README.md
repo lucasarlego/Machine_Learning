@@ -53,6 +53,7 @@ A distance measure that generalizes other distances, such as Euclidean distance 
 
 #### Chebyshev Distance
 It is a distance measure that considers only the maximum value among the absolute differences between variables. In this way, it takes into account only the variable that has the greatest difference in values between the two observations.
+<<<<<<< HEAD
 
 
 ### Bayes' Theorem
@@ -63,3 +64,5 @@ Bayes' theorem is a formula used to calculate the probability of an event occurr
 * P(B|A): probability of event B occurring given that event A has already occurred;
 * P(A): probability of event A occurring;
 * P(B): probability of event B occurring.
+=======
+>>>>>>> 6cf321b26aabb2f1440519177827a8fe5231e490
