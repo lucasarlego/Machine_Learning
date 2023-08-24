@@ -6,7 +6,7 @@
 2. Targets
 3. Training
 4. Testing
-5. Acuracy Rate
+5. Accuracy Rate
 6. Optimize
 7. Predict
 
@@ -58,7 +58,7 @@ It is a distance measure that considers only the maximum value among the absolut
 
 Bayes' theorem is a formula used to calculate the probability of an event occurring, given that another event, called the conditioning event, has already occurred. This is known as conditional probability. Its notation is given by P(A|B), which represents the probability of event A given that event B has already occurred. It is defined by the following equation:
 
-![Alt text](image.png)
+![Alt text](image\image.png)
 
 * P(B|A): probability of event B occurring given that event A has already occurred;
 * P(A): probability of event A occurring;
