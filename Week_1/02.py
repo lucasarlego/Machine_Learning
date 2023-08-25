@@ -6,7 +6,7 @@ import warnings
 warnings.filterwarnings("ignore", category=FutureWarning, message="The default value of `dual` will change from `True` to `'auto'` in 1.5.")
 
 
-dados = pd.read_csv('tracking.csv')
+dados = pd.read_csv('Week_1/tracking.csv')
 
 print(dados.head())
 

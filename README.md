@@ -73,3 +73,7 @@ Bayes' theorem is a formula used to calculate the probability of an event occurr
 * F1 Score
 
 
+## Underfitting and Overfitting
+
+Overfitting: capturing spurious patterns that won't recur in the future, leading to less accurate predictions, or
+Underfitting: failing to capture relevant patterns, again leading to less accurate predictions.
